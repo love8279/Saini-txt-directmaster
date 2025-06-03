@@ -6,7 +6,7 @@ from os import environ
 API_ID = int(environ.get("API_ID", "20417561"))
 API_HASH = environ.get("API_HASH", "c01124688b006ef00fa6ac926d6cb3e9")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
-OWNER = int(environ.get("OWNER", "5680454765"))
+OWNER = int(environ.get("OWNER", "6938716674"))
 CREDIT = "𝄟⃝‌🐬🇳‌ɪᴋʜɪʟ𝄟⃝🐬"
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
